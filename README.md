@@ -59,8 +59,8 @@ The dataset contains 10 years of daily stock data (2013–2023) for 10 NASDAQ co
 
 ## How to Run
 
-1. 'git clone https://github.com/sergioromero48/Project-Denarius.git'
-2. Install Python 3.9+ and required libraries: `numpy`, `pandas`, `tensorflow`, kagglehub.
+1. `git clone https://github.com/sergioromero48/Project-Denarius.git`
+2. Install Python 3.9+ and required libraries: `numpy`, `pandas`, `tensorflow`, `kagglehub`.
 3. Execute the Jupyter notebooks provided for each machine learning method:
    - `linear_reg.ipynb`
    - `q_learning.ipynb`
